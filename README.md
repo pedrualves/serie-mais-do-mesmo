@@ -119,5 +119,3 @@ Então minha dica é:
 
 É óbvio que todo caminho tem obstáculos, dificuldades, inúmeras falhas, stress, discussões e confusões.
 Essas virtudes tem sido os pilares que me ajudam a manter a cabeça no lugar, assim ficou fácil continuar evoluindo como pessoa, como profissional, como eterno aprendiz...
-
-[ x ] Compartilhar publicamente 15 conselhos que eu fiz e me aconselharia a seguir se estivesse começando hoje na carreira de tecnologia.
