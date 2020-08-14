@@ -1,25 +1,5 @@
 # serie-mais-do-mesmo
 
-[a relative link](versionando-com-git.md)
-
- <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table> 
-
 ## 15 conselhos que eu fiz e me aconselharia a seguir se estivesse começando hoje na carreira de tecnologia
 
 Esses conselhos foram compilados seguindo as minhas próprias experiências de vida e aprendizado que tive durante essas mais de 3 décadas de existência.
