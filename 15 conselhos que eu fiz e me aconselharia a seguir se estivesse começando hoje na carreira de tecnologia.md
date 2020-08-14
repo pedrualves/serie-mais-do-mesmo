@@ -1,4 +1,4 @@
-# 15 conselhos que eu fiz e me aconselharia a seguir se estivesse começando hoje na carreira de tecnologia
+# 14 + 1 conselhos que eu fiz e me aconselharia a seguir se estivesse começando hoje na carreira de tecnologia
 
 Esses conselhos foram compilados seguindo as minhas próprias experiências de vida e aprendizado que tive durante essas mais de 3 décadas de existência.
 Não sou dono da verdade.
