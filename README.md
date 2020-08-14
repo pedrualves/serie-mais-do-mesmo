@@ -18,7 +18,7 @@ Colaborar para no mínimo uma pessoa com o seu crescimento, evolução, amadurec
 
 ### 1. Aprenda Inglês
 
-BITCH! PLEASE!
+![BITCH! PLEASE!](https://blogdojotace.com.br/wp-content/uploads/2014/10/yeah-bitch.gif)
 
 ### 2. Instale e use Linux!
 
